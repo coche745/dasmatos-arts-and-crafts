@@ -10,6 +10,6 @@ I created this project as part of Codecademy's curriculum. It is an art's and cr
 + HTML
 + CSS
 ## Setup
-To visit the website, go to https://coche745.github.io/dasmato's-arts&crafts/
+To visit the website, go to https://coche745.github.io/dasmatos-arts-and-crafts/
 ## Status
 Project is: finished
